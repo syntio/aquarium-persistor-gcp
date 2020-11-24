@@ -67,7 +67,7 @@ func SetPullInfo(pullInfo *PullInfo) error {
 // An error is returned if any errors occur during the function execution.
 func ExtractReceivedInfo(r *http.Request, pullInfo *PullInfo) error {
 	decoder := json.NewDecoder(r.Body)
-	var recInfo recievedInfo
+	var recInfo InvokerInfo
 
 	decoder.DisallowUnknownFields()
 	err := decoder.Decode(&recInfo)
