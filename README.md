@@ -17,7 +17,7 @@ Based on our previous experience, it is very useful to have data stored in cheap
 
 
 **More details about Persistor can be found on**
-- [Wiki page](../../../wiki)
+- [Wiki page](../../wiki)
 
  
 ## Repository structure
