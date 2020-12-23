@@ -123,7 +123,7 @@ github.com/syntio/aquarium-persistor-gcp/lib
 ## Deployment and Configuration
 
 
-Instructions on how to establish GCP persistor connection between Pub/Sub and GCS storage using Cloud shell can be found [here](../../../wiki/Deployment-via-gcloud-shell).
+Instructions on how to establish GCP persistor connection between Pub/Sub and GCS storage using Cloud shell can be found [here](../../wiki/Deployment-via-gcloud-shell).
 
 ## Limitations
 
@@ -133,7 +133,7 @@ Timeout parameter of a Cloud Function that pulls and stores messages synchronous
 
 ## Links
  
-Issue tracker: https://github.com/syntio/aquarium-persistor-gcp/issues
+Issue tracker: [Issues](../../issues)
 - *In case of sensitive bugs like security vulnerabilities, please contact  support@syntio.net directly instead of using issue tracker. We value your effort to improve the security and privacy of this project!*
 
 
